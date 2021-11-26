@@ -1,0 +1,411 @@
+ 
+ .nav-link{
+        
+        color:  #3A3A3C;
+        cursor: pointer;
+        font-family: Gordita;
+        
+    }
+
+   .nav-link:hover{
+       color: black;
+       border-bottom: 1px solid springgreen;
+}
+
+.button1{
+
+    border: 1px  gray;
+     padding: 6px; 
+     color:#3A3A3C ;
+      border-radius: 20px;
+       width: 100px;
+       
+}
+
+#button2{
+
+    border: 1px  gray;
+     padding: 6px; 
+     color:#FFFFFF ;
+      border-radius: 20px;
+       width: 100px;
+        background-color: #7000FF;
+
+}
+
+
+#button3{
+    text-decoration: none;
+    width: 39px;
+    color: #7000FF;
+    
+}
+
+
+.main-heading-part {
+    background: linear-gradient(180deg,hsla(0,0%,100%,0) 65%,#f9f871 0);
+}
+
+#button4{
+    border: 1px  gray;
+     height: 35px; 
+     color:#FFFFFF ;
+      border-radius: 20px;
+       width: 150px;
+        background-color: #7000FF;
+        font-family: Gordita;
+        letter-spacing: 1%;
+}
+
+#button5{
+    border: 1px  gray;
+    padding: 5px;
+    height: 35px; 
+ font-family: Gordita;
+    color:#FFFFFF ;
+     border-radius: 20px;
+      width: 150px;
+       background-color: #F1E7FF;
+       color: #7000FF;
+       letter-spacing: 1%; 
+}
+
+.arrow{
+    border: 1px lightgray;
+    cursor: pointer;
+    padding: 7px;
+    height: 37px;
+    
+    background-color: #F0F0F0;
+    border-radius: 20px;
+}
+
+
+.caps{
+        font-family: Gordita;
+        color: #8E8E93;
+        font-size: 32px;
+
+}
+
+.features-h2{
+    font-family: Gordita;
+
+}
+
+.create-h3{
+    font-family: Gordita;
+    color: #101010;
+    font-size: 32px;
+    
+
+}
+
+.floor-p{
+    font-family: Gordita;
+    color: #8E8E93;
+    font-size: 20px;
+
+    
+}
+
+.bullet-ul{
+    font-family: Gordita;
+    color: #8E8E93;
+}
+
+.try-h1{
+    font-family:Gordita ;
+    font-size: 24px;
+    text-align: center;
+color: #101010;
+    letter-spacing: 0.01em;
+
+}
+
+.copies-p{
+    
+
+font-family: Gordita;
+font-style: normal;
+font-size: 16px;
+text-align: center;
+letter-spacing: 0.01em;
+color: #3A3A3C;
+
+}
+
+.button10{
+    border: 1px solid black;
+    height: 35px; 
+    color:#FFFFFF ;
+     border-radius: 20px;
+      width: 150px;
+       background-color: #7000FF;
+       font-family: Gordita;
+       letter-spacing: 1%;
+       
+}
+
+.saas-p{
+    border: 1px  light #FFC03A;
+    background-color: rgba(255, 192, 58, 0.2);
+    color: #FFC03A;
+    text-align: center;
+    font-family: Gordita;
+    font-weight: bold;
+font-size: 12px;
+}
+
+.your-h2{
+    font-family: Gordita;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 40px;
+
+text-align: center;
+letter-spacing: 0.01em;
+color:  #101010;
+}
+
+
+/* .business-border{
+    padding: 15px 10px 0!important;
+    background: hsla(0,0%,100%,.4);
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    
+    
+    border-radius: 40px;
+} */
+
+.leads-p{
+    font-family: Gordita;
+font-style: normal;
+color: #FFFFFF;
+font-size: 16px;
+letter-spacing: 0.01em;
+font-weight: bold;
+cursor: pointer;
+}
+
+.car-1{
+    border: 1px solid lightgray;
+    border-radius: 25px;
+    background-color: #7000FF;
+    
+    
+}
+
+.seo-p{
+    font-family: Gordita;
+    font-style: normal;
+    color: #7000FF;
+    font-size: 14px;
+    letter-spacing: 0.01em;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.seo-p:hover{
+    color: #FFFFFF;;
+} 
+
+.car-2{
+    border: 1px solid lightgray;
+    border-radius: 25px;
+    background-color: #F1E7FF;
+    white-space: nowrap;
+}
+
+.car-2:hover{
+    background-color:#7000FF ;
+    
+    
+}
+
+.create-h13{
+    font-family: Gordita;
+    color: #101010;
+    font-size: 32px;
+    
+    
+
+}
+
+
+.floor-p1{
+    font-family: Gordita;
+    color: #8E8E93;
+    font-size: 20px;
+
+}
+
+.bullet-ul1{
+    font-family: Gordita;
+    color: #8E8E93;
+
+}
+
+
+.join-h1{
+    font-family: Gordita;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+color: #101010;
+text-align: center;
+letter-spacing: 0.01em;
+}
+
+.sit-spam{
+font-family: Gordita;
+font-style: normal;
+font-size: 14px;
+text-align: center;
+letter-spacing: 0.01em;
+color: #8E8E93;
+}
+
+
+.copy-cat{
+    
+    background: #fff;
+    border: 1.26897px solid #f0f0f0;
+    box-sizing: border-box;
+    
+    box-shadow: 0 0 30.4552px rgb(0 0 0 / 10%);
+    border-radius: 12.6897px;
+
+}
+
+
+.already-h3{
+    font-family: Gordita;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    letter-spacing: 0.01em;
+    color: #101010;
+    text-align: center;
+
+}
+
+.with-p{
+    font-family: Gordita;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    letter-spacing: 0.01em;
+    color: #3A3A3C;
+    
+
+}
+
+.footer{
+
+    width: 100%;
+    background-color: #6a00f1;
+    min-height: 250px;
+    padding: 10px 0 25px;
+    margin-top: 100px;
+}
+
+.footer-h4{
+    font-family: Gordita;
+    padding: 15px;
+}
+
+.pt2{
+    font-family: Gordita;
+    color: #FFFFFF;
+    padding-top: 40px; 
+    margin-bottom: 20px; 
+}
+
+.footer_ul_amrc {
+    margin: 0;
+    list-style-type: none;
+    font-size: 14px;
+    padding: 0 0 10px;
+    font-family: Gordita;
+}
+
+
+.mb10{
+    font-family: Gordita;
+}
+
+.mb5{
+    font-family: Gordita;  
+}
+
+.social_footer_ul{
+    list-style-type: none;
+    display: flex;
+    padding: 16px;
+    
+
+}
+
+.fab{
+    padding: 10px;
+    color: #FFFFFF;
+    font-size: 25px;
+  
+}
+
+
+.footer-row{
+    /* display: flex !important; */
+    /* justify-content: center !important; */
+
+    padding: 50px !important;
+}
+
+.footer-col{
+    background-color: rgb(112,0,225);
+     border-radius: 10px;
+     padding: 10px;
+}
+
+
+.one-step{
+    background: #F8F8F8;
+
+}
+
+
+.img23{
+    width: 80%!important;
+    background: #fff;
+    border: 1.26897px solid #f0f0f0;
+    box-sizing: border-box;
+    padding: 30px!important;
+    box-shadow: 0 0 30.4552px rgb(0 0 0 / 10%);
+    border-radius: 12.6897px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
